@@ -27,3 +27,5 @@ Git push: Perintah yang digunakan untuk mentransfer perubahan file ke repository
 git push
 ```
 ```
+## git add lihat sa pu hasil coding melalui link pages berikut ini :
+ https://github.com/viktorywanimbo9/SaCode-2024-html-css-pertemuan-9/
